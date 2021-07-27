@@ -1,0 +1,105 @@
+{
+  "product": [
+    {
+      "nama": "iPhone 12 Pro Max",
+      "merk": "Apple",
+      "jenis": "Elektronik",
+      "harga": 19499000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5zQhfYaXhx3nEydyq1_VD9cXJGArt7P0lSkFaEKUyj-c06V5dSuFv09eeJykOdjrS2rlXF8&usqp=CAc",
+      "description": "iPhone 12 Pro Max 128GB",
+      "stok": 10,
+      "id": 1
+    },
+    {
+      "nama": "Superstar 80s CF Shoes",
+      "merk": "Adidas",
+      "jenis": "Pakaian",
+      "harga": 1800000,
+      "img": "https://rukminim1.flixcart.com/image/714/857/kg9qbgw0-0/shoe/r/o/n/ew2425-6-adidas-ftwwht-cblack-original-imafwjzydyafyjdy.jpeg?q=50",
+      "description": "Laceless Adidas Supestar Shoes with Big Straps",
+      "stok": 5,
+      "id": 2
+    },
+    {
+      "nama": "Samsung Galaxy S21",
+      "merk": "Samsung",
+      "jenis": "Elektronik",
+      "harga": 19300000,
+      "img": "https://images.samsung.com/id/smartphones/galaxy-s21/buy/s21_ultra_basicgroup_kv_mo_img.jpg",
+      "description": "New Samsung Galaxy Series S21+ 5G",
+      "stok": 10,
+      "id": 4
+    },
+    {
+      "nama": "Long Sleeve Knit Polo Shirt",
+      "merk": "Zara",
+      "jenis": "Pakaian",
+      "harga": 450000,
+      "img": "https://i.pinimg.com/originals/fe/99/7b/fe997b18d4921afd6626c264213628a9.jpg",
+      "description": "Zara long sleeve dress",
+      "stok": 100,
+      "id": 5
+    },
+    {
+      "nama": "Milo Ice Cream 1000ml",
+      "merk": "Nestle",
+      "jenis": "Makanan",
+      "harga": 100000,
+      "img": "https://cdn1.woolworths.media/content/wowproductimages/medium/430266.jpg",
+      "description": "Ice Cream Milo",
+      "stok": 2000,
+      "id": 6
+    },
+    {
+      "nama": "Aqua 600ml",
+      "merk": "Danone",
+      "jenis": "Makanan",
+      "harga": 3500,
+      "img": "https://ecs7-p.tokopedia.net/img/VCeHif/2020/6/19/65390a1c-f28f-4e20-b0a1-b10e719e5a83.jpg",
+      "description": "Aqua 600 ml",
+      "stok": 3000,
+      "id": 7
+    }
+  ],
+  "cart": [],
+  "history": [
+    {
+      "username": "Ivana Debora",
+      "tglTrans": "2021-07-27T00:38:17.490Z",
+      "totalItem": 3,
+      "totalPrice": 300000,
+      "id": 4
+    },
+    {
+      "username": "Ivana Debora",
+      "tglTrans": "2021-07-27T00:49:06.653Z",
+      "totalItem": 1,
+      "totalPrice": 19499000,
+      "id": 5
+    }
+  ],
+  "orderDetail": [
+    {
+      "idHistory": 4,
+      "qty": 3,
+      "idProduct": 6,
+      "namaProduk": "Milo Ice Cream 1000ml",
+      "img": "https://cdn1.woolworths.media/content/wowproductimages/medium/430266.jpg",
+      "price": 100000,
+      "totalHarga": 300000,
+      "username": "Ivana Debora",
+      "id": 5
+    },
+    {
+      "idHistory": 5,
+      "qty": "1",
+      "idProduct": 1,
+      "namaProduk": "iPhone 12 Pro Max",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5zQhfYaXhx3nEydyq1_VD9cXJGArt7P0lSkFaEKUyj-c06V5dSuFv09eeJykOdjrS2rlXF8&usqp=CAc",
+      "price": 19499000,
+      "totalHarga": 19499000,
+      "username": "Ivana Debora",
+      "id": 6
+    }
+  ]
+}
